@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on free and open source projects
 - 📫 How to reach me via email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 90% of Hollywood's special effects are made on Linux.
+- ⚡ Fun fact: The International Space Station runs Linux since 2013.
 
 <!---
 Ali-Al-Khuwaja/Ali-Al-Khuwaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
