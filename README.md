@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and game development
 - 🌱 I’m currently learning Front-end development and Godot engine
 - 💞️ I’m looking to collaborate on free and open source projects
-- 📫 How to reach me via email
+- 📫 How to reach me via email :ali.al.khuwaja@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The International Space Station runs Linux since 2013.
 
