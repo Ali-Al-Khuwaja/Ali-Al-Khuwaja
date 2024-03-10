@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali-Al-Khuwaja
 - 👀 I’m interested in web and game development
-- 🌱 I’m currently learning Front-end development and Godot engine
+- 🌱 I’m currently learning web development and Godot engine
 - 💞️ I’m looking to collaborate on free and open source projects
 - 📫 How to reach me via email :ali.al.khuwaja@gmail.com
 - 😄 Pronouns: he/him
