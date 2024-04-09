@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Ali-Al-Khuwaja
-- 👀 I’m interested in web and game development ( HTMX , Adonis.js , Typescript , ruby , Godot Engine )
+- 👀 I’m interested in web and game development ( alpine.js , Adonis.js , astro.js , Typescript , ruby , Godot Engine )
 - 🌱 I’m currently learning JavaScript and Godot engine
 - 💞️ I’m looking to collaborate on free and open source projects
 - 📫 How to reach me via email :ali.al.khuwaja@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: The International Space Station runs Linux since 2013.
 
 <!---
