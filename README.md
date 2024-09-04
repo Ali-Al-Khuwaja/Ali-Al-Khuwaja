@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali-Al-Khuwaja
 - 👀 I’m interested in web and game development ( Godot Engine , framer )
 - 🌱 I’m currently learning framer and Godot engine
-- 💞️ I’m looking to collaborate on free and open source projects , currently helping with translating Godot game engine to arabic  
+- 💞️ I’m looking to collaborate on free and open source projects 
 - 📫 How to reach me via email :ali.al.khuwaja@gmail.com
 - ⚡ Fun fact: The International Space Station runs Linux since 2013.
 
