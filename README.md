@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali-Al-Khuwaja
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on free and open source projects 
 - 📫 How to reach me via email :ali.al.khuwaja@gmail.com
 
