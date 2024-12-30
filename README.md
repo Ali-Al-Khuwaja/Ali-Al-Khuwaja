@@ -8,7 +8,7 @@ In a job market filld with new graduates, self-taught and  experinced layedoff d
 
 
 
-I'm also a human with emotions, so I do have hobbys and one of them is game development, so, don't be surprised if you see me talking about it. I also love CATS
+I'm also a human with emotions, so I do have hobbys and one of them is game development, so, don't be surprised if you see me talking about it. I also love Cats
 
 Contact me on : ali.al.khuwaja@gmail.com   
 <!---
