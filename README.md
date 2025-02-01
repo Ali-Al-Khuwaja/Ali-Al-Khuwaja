@@ -1,6 +1,6 @@
 ## Hi there! I'm Ali - "علي" 👋
 
-I'm currently studying Ruby and exploring game development with Defold in my free time.
+I'm currently studying Ruby and js
 
 Feel free to reach out to me at: ali.al.khuwaja@gmail.com
 
