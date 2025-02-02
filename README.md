@@ -1,6 +1,6 @@
 ## Hi there! I'm Ali - "علي" 👋
 
-I'm currently studying Ruby and js
+I'm currently studying Ruby and JS 
 
 Feel free to reach out to me at: ali.al.khuwaja@gmail.com
 
