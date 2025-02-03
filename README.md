@@ -1,6 +1,6 @@
 ## Hi there! I'm Ali - "علي" 👋
 
-I'm currently studying Ruby and JS 
+Just a student studying softwares and databases, I specialize in web apps development, I'm currently learning ruby and JS, I'm also interested in game development .
 
 Feel free to reach out to me at: ali.al.khuwaja@gmail.com
 
