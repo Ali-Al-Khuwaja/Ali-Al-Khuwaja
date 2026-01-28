@@ -1,6 +1,6 @@
 ## Hi there! I'm Ali - "علي" 👋
 I'm just a guy studying software development ,focusing on web development.
-I'm also intreseted in making games, so you'll see me talk about it sometimes
+
 
 I'm doing the Ruby on Rails path on TheOdinProject.🤓
 
