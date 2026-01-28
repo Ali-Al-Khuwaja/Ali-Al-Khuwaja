@@ -1,6 +1,5 @@
-## Hi there! I'm Ali - "علي" 👋
-I'm just a guy studying software development ,focusing on web development.
-
+## Hi there! I'm Ali 👋
+I'm just a guy studying software development, focusing on web development.
 
 I'm doing the Ruby on Rails path on TheOdinProject.🤓
 
